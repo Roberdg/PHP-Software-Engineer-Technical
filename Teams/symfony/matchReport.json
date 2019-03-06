@@ -1,0 +1,64 @@
+{
+    "team1": {
+        "name": "Real Madrid",
+        "listPlayers": [ 
+            {
+                "name": "Sergio",
+                "surname": "Ramos",
+                "numGoals": "6",
+                "numYellowCard": "16",
+                "numRedCard": "2"
+            },
+            {
+                "name": "Rafael",
+                "surname": "Varane",
+                "numGoals": "2",
+                "numYellowCard": "7",
+                "numRedCard": "0"
+            }
+        ]
+    },
+    "team2": {
+        "name": "FC Barcelona",
+        "listPlayers": [ 
+            {
+                "name": "Sergio",
+                "surname": "Busquets",
+                "numGoals": "1",
+                "numYellowCard": "13",
+                "numRedCard": "1"
+            },
+            {
+                "name": "Jordi",
+                "surname": "Alba",
+                "numGoals": "2",
+                "numYellowCard": "9",
+                "numRedCard": "0"
+            }
+        ]
+    },
+    "date": "02/03/2019 20:45",
+    "location": "Madrid - Santiago Bernabeu",
+    "result": "0-1",
+    "listGoalsPlayer": [
+        {
+            "name": "Ivan",
+            "surname": "Rakitic",
+            "date": "02/03/2019 21:01"
+        }
+    ],
+    "listCardsPlayer": [
+        {
+            "name": "Sergio",
+            "surname": "Busquets",
+            "card": "yellow",
+            "date": "02/03/2019 20:47"
+        },
+        {
+            "name": "Sergio",
+            "surname": "Ramos",
+            "card": "yellow",
+            "date": "02/03/2019 21:46"
+        }
+    ]
+}
